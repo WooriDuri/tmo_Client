@@ -3,7 +3,7 @@
     "target": "ESNext",
     "useDefineForClassFields": true,
     "paths": {
-      "@components/*": ["src/components/*"],
+      "@components/*": ["./src/components/*"],
       "@/*": ["./src/*"]
     },
     "lib": ["DOM", "DOM.Iterable", "ESNext"],
